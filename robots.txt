@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://web-mastershashaval.github.io/salpan/sitemap.xml
